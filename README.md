@@ -1,1 +1,2 @@
 # Kadans-Algorithm
+Kadane's Algorithm is a programming technique used to find the maximum subarray sum within a given array of numbers. Named after its inventor, Jay Kadane, this elegant Algorithm has applications in various domains, from computer science and data analysis to finance and image processing. Kadane's algorithm tells us that there is a way to calculate the largest sum by only making one pass on the array, bringing the complexity down to linear time.
